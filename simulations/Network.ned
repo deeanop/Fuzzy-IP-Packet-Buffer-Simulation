@@ -1,4 +1,7 @@
-package fuzzybuffersim;
+package fuzzybuffersim.simulations;
+import fuzzybuffersim.Source;
+import fuzzybuffersim.FuzzyQueue;
+import fuzzybuffersim.Sink;
 network FuzzyNetwork
 {
     @display("bgb=472,321");
